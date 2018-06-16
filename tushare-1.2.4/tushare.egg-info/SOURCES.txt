@@ -1,3 +1,4 @@
+setup.cfg
 setup.py
 pytdx/__init__.py
 pytdx/base_socket_client.py
